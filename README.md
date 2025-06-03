@@ -24,5 +24,5 @@ A Python script to download a list of YouTube videos as MP3 files.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/youtube-mp3-downloader.git
+git clone https://github.com/jony369t/youtube2mp3.git
 cd youtube-mp3-downloader
