@@ -2,7 +2,8 @@
 
 A Python script to download a list of YouTube videos as MP3 files.
 
-![Demo](demo.gif) *(You can add a demo GIF later)*
+ ![image](https://github.com/user-attachments/assets/c747077b-8f73-4df6-8902-b1622671a6e4)
+
 
 ## Features
 
